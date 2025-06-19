@@ -1,10 +1,4 @@
-# Hello, I'm **Achanandhi** 👨‍💻 - Developer Advocate 🚀
-
-Welcome to my GitHub profile! As a **Developer Advocate**, I strive to bridge the gap between developers and cutting-edge technologies. I focus on **open-source contributions**, **community building**, and **empowering developers** with the best tools and practices. Here’s a glimpse into what I’m currently working on:
-
----
-
-## 🚀 About Me
+# Hello, I'm **Achanandhi** 👨‍💻 
 
 I'm a passionate **Developer Advocate** with deep experience in **DevOps**, **Testing**, and **Cloud-native technologies**.
 
@@ -24,36 +18,20 @@ I enjoy:
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achanandhi-M&layout=compact&theme=radical)
-
----
-
-## 🔥 My PR Contributions
-
-### Latest PRs
-- **PR 1**: [Fix Bug in Keploy API Testing Integration](https://github.com/keploy/keploy/pull/123)
-- **PR 2**: [Add New Feature for Automated Test Generation](https://github.com/keploy/keploy/pull/124)
-
-Check out all my PRs and contributions on my [GitHub Contributions Page](https://github.com/Achanandhi-M).
-
----
-
-## 📈 My Developer Advocacy Metrics
+## 🌍 Community Engagement & Contributions
 
 Here are a few ways I engage with the community:
 
 - **Talks & Conferences**: 
-  - Delivered **10+ talks** at developer conferences, focusing on **DevOps**,  and **Cloud-native**.
+  - Delivered **10+ talks** at developer conferences, focusing on **DevOps**, and **Cloud-native**.
 
 - **Open-Source Contributions**: 
   - Raised **50+ PRs** across various open-source projects, including **Keploy** and other testing frameworks.
-  - Contributed to **20+ repositories**.
+  - Contributed to **10+ repositories**.
 
 - **Community Building**:
-  - **50+ events** organized to engage with the developer community.
-  - Host **weekly developer meetups**
+  - **10+ events** organized to engage with the developer community.
+  - Attend and also host **weekly developer meetups**
 
 ---
 
@@ -61,9 +39,9 @@ Here are a few ways I engage with the community:
 
 Stay updated with my latest articles and blogs, where I share insights on software engineering, API testing, and AI-driven development:
 
-- **[The Future of Automated API Testing with AI](https://keploy.io/blog/community/how-to-delete-local-and-remote-branches-in-git-a-complete-guide)**
-- **[How AI Can Help Developers Save Time on Unit Testing](https://keploy.io/blog/community/how-to-delete-local-and-remote-branches-in-git-a-complete-guide)**
-- **[Building DevOps Pipelines with CI/CD Automation](https://keploy.io/blog/community/how-to-delete-local-and-remote-branches-in-git-a-complete-guide)**
+- **[Platform Engineering  VS Devops ](https://keploy.io/blog/community/platform-engineering-vs-devops)**
+- **[How to get your chatgpt API Key](https://keploy.io/blog/community/how-to-get-your-chatgpt-api-key)**
+- **[What is Code refactoring](https://keploy.io/blog/community/what-is-code-refactoring)**
 
 For a complete list of my blogs, visit  [Keploy blogs](https://keploy.io/blog).
 
@@ -73,23 +51,21 @@ For a complete list of my blogs, visit  [Keploy blogs](https://keploy.io/blog).
 
 I also write on **Medium**! Here are some of my latest posts:
 
-- **[Understanding API Testing Best Practices](https://medium.com/@yourusername/api-testing-best-practices-12345)** 
-- **[AI and the Future of Software Testing](https://medium.com/@yourusername/ai-future-testing-67890)**
-- **[How to Automate Unit Tests with AI](https://medium.com/@yourusername/automate-unit-tests-ai-abcde)**
+- **[Hey Gemini manage my Kubernetes](https://medium.com/@achanandhi.m/hey-gemini-manage-my-kubernetes-65091d2f79fe)** 
+- **[Amazon Q vs Me](https://medium.com/@achanandhi.m/me-vs-amazon-q-round-one-8e10e332ccee)**
 
 For more, visit my [Medium Profile](https://medium.com/@yourusername).
 
 ---
 
-## 🔧 Technologies & Tools I Advocate
+## 🔧 Technologies, Foundation & Tools I Advocate
 
+- **Foundation**: Linux Foundation, CNCF, OpenSSF and Cloud Foundry
 - **Languages**: Python, Go, JavaScript, TypeScript,
-- **Cloud**: AWS, Azure, Google Cloud
 - **Tools**: Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 - **CI/CD**:  GitLab CI, Jenkins
 - **Testing Frameworks**: Keploy, Selenium, Go Testing
 - **Monitoring**: Prometheus, Grafana
-
 ---
 
 ## 💼 Current Focus & Projects
@@ -116,19 +92,13 @@ Let’s engage and build a better developer ecosystem:
 
 ---
 
-## 📝 Let's Collaborate!
-
-I’m always looking to collaborate on exciting projects, especially those related to **AI-driven testing** and **developer productivity**. If you’re interested in working together, **reach out** to me.
-
-Let’s build something amazing for the developer community! 🚀
-
----
-
 ## 📍 Fun Facts About Me
 
 - I’m a **community-driven** advocate and I love interacting with developers through events, hackathons, and conferences.
-- My goal is to help developers automate their testing workflows and build tools that save time and effort.
-- Outside of coding, I’m a huge fan of books, and podcasts. 🚀
+
+- I’m always curious to learn, try new things, and share my experiences with the community. Outside of tech, you'll find me on the badminton court or with a book in hand.
+
+- I’m an athlete at heart, and some of my favorites books are "The Alchemist" and "Think Like a Monk" — both inspiring me to push my limits and stay curious. Always up for a chat about tech, community building, or a good book! 😊
 
 ---
 
