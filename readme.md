@@ -54,7 +54,7 @@ I also write on **Medium**! Here are some of my latest posts:
 - **[Hey Gemini manage my Kubernetes](https://medium.com/@achanandhi.m/hey-gemini-manage-my-kubernetes-65091d2f79fe)** 
 - **[Amazon Q vs Me](https://medium.com/@achanandhi.m/me-vs-amazon-q-round-one-8e10e332ccee)**
 
-For more, visit my [Medium Profile](https://medium.com/@yourusername).
+For more, visit my [Medium Profile](https://medium.com/@achanandhi.m).
 
 ---
 
