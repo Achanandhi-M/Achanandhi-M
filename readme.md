@@ -1,6 +1,6 @@
 # Hello, I'm **Achanandhi** 👨‍💻 
 
-I'm a passionate **Developer Advocate** with deep experience in **DevOps**, **Testing**, and **Cloud-native technologies**.
+Empowering developers through DevOps, Testing & Cloud-native magic. 
 
 I work closely with engineering teams, creating tutorials, writing blogs, giving talks, and fostering communities. I’m all about **helping developers thrive** by providing the resources they need to be successful in their tech journeys.
 
@@ -58,7 +58,7 @@ For more, visit my [Medium Profile](https://medium.com/@achanandhi.m).
 
 ---
 
-## 🔧 Technologies, Foundation & Tools I Advocate
+## 🔧 Technologies, Foundations & Tools I Advocate
 
 - **Foundation**: Linux Foundation, CNCF, OpenSSF and Cloud Foundry
 - **Languages**: Python, Go, JavaScript, TypeScript,
